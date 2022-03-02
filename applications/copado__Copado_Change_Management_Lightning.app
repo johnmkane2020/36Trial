@@ -20,6 +20,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Copado Developer</label>
     <navType>Standard</navType>
     <setupExperience>all</setupExperience>
@@ -46,7 +47,6 @@
     <tabs>copado__Kanban_Board__c</tabs>
     <tabs>copado__Copado_DX_Panel</tabs>
     <tabs>copado__Burndown_Item__c</tabs>
-    <tabs>copado__Copado_Feature__c</tabs>
     <tabs>copado__Application__c</tabs>
     <tabs>copado__Application_Feature__c</tabs>
     <uiType>Lightning</uiType>
